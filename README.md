@@ -17,9 +17,17 @@ artık kütüphaneleri kurabiliriz
 projemiz için aşağıdaki kütüphanelerin kurulu olması gerekiyor
 
 Kurulması gereken kütüphaneler
-python -m pip install Django,
-pip install sentinelsat,
-pip install Archive,
+python -m pip install Django
+
+
+pip install sentinelsat
+
+
+
+pip install Archive
+
+
+
 pip install rasterio ya da conda install -c conda-forge rasterio,
 pip install pandas,
 pip install numpy,
