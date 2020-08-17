@@ -6,6 +6,7 @@ Django için ayrı bir virutual machine oluşturmak daha yararlı oluyor çünk�
 masaüstüne klasörümüzü açıyoruz burası bizim çalışma ortamımız olacak
 
 pip install virtualenv komutu ile bir sanal ortam kuruyoruz
+virtualenv Sanalortamadi ile kendimize sanal ortam olusturuyoruz
 konsolumuz ile sanal ortam içindeki Scripts klasöründeki activate.bat dosyasını çalıştırıyoruz
 
 Sanalortamadi/Scripts/activate
