@@ -172,7 +172,7 @@ class backend(models.Model):
         self.min=np.nanmin(self.ndvi)
         self.max=np.nanmax(self.ndvi)
         self.mid=0.1
-        print("bitti mi şimdi bok biter")
+        print("bitti mi şimdi")
         print(self.min,self.max)
 
                 
@@ -197,7 +197,7 @@ class backend(models.Model):
 
 
 class deneme(models.Model):
-    denemeyazisi=("bi ol var ya anasını")
+    denemeyazisi=("bi ol")
 
 class Book(models.Model):
     tarih = models.CharField(max_length=100)
